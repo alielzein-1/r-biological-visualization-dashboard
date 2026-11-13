@@ -1,0 +1,18 @@
+# R history and workspace files
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio settings
+.Rproj.user/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+
+# R package check files
+.Rcheck/
